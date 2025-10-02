@@ -25,7 +25,9 @@ Zone	Sales region/zone name
 Team	Sales team name under a zone
 Target	Sales target assigned
 Actual	Actual sales achieved
+
 📸 Dashboard Preview
+
 <img width="1920" height="1080" alt="Screenshot 2025-10-02 112330" src="https://github.com/user-attachments/assets/ec12bab9-9e61-4819-bd55-ee55189c1f8d" />
 
 🛠️ Tools Used
